@@ -14,11 +14,11 @@ void main()
 			printf("Food Item - Pizza \nPrice-Rs.239/-");
 			break;
 		case 3:
-	     	printf("Food Item - Burger \nPrice-Rs.129/-");
-	     	break;
+	        	printf("Food Item - Burger \nPrice-Rs.129/-");
+	        	break;
 		case 4:
 			printf("Food Item - Sandwich \nPrice-Rs.149/-");
-		    break;
+		        break;
 		case 5:
 			printf("Food Item - French Fries \nPrice-Rs.99/-");
 			break;
